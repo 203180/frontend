@@ -1,0 +1,18 @@
+#movies-page {
+    background-color: lightgray !important;
+    min-height: 46rem;
+
+    .table-row {
+        :hover {
+            cursor: pointer;
+        }
+    }
+
+    .page-container {
+        margin-top: 4rem;
+    }
+
+    .add-movie-button {
+        margin-bottom: 1rem !important;
+    }
+}
